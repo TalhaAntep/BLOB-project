@@ -1,0 +1,8 @@
+C:\Users\Talha\source\repos\mars\gg\bin\Debug\gg.exe.config
+C:\Users\Talha\source\repos\mars\gg\bin\Debug\gg.exe
+C:\Users\Talha\source\repos\mars\gg\bin\Debug\gg.pdb
+C:\Users\Talha\source\repos\mars\gg\obj\Debug\gg.csproj.AssemblyReference.cache
+C:\Users\Talha\source\repos\mars\gg\obj\Debug\gg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Talha\source\repos\mars\gg\obj\Debug\gg.csproj.CoreCompileInputs.cache
+C:\Users\Talha\source\repos\mars\gg\obj\Debug\gg.exe
+C:\Users\Talha\source\repos\mars\gg\obj\Debug\gg.pdb
